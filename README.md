@@ -15,7 +15,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
+## 🌎 Site Online
+- [Explorer Lab 01](https://explorer-lab-01-theta-five.vercel.app/)
+
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
